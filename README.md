@@ -2,7 +2,7 @@
   <img src="assets/title.gif" alt="title" width=100% height="500">
 </div>
 
-### <div align="center">✨</div>  
+### <div align="center">🍉</div>  
 
 <!--
 **WaterMelon-source/waterMelon-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
