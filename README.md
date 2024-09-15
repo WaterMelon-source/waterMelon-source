@@ -1,5 +1,7 @@
-<!--![profile preview](assets/title.mp4)-->
-[![Video Thumbnail](assets/title.gif)
+<div align="center">
+  <img src="assets/title.mp4" alt="My Profile Loop" width="400" height="300">
+</div>
+
 ## Hi there 👋
 
 <!--
