@@ -1,3 +1,4 @@
+![profile preview](assets/profile.gif)
 ## Hi there 👋
 
 <!--
