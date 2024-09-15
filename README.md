@@ -2,10 +2,9 @@
   <img src="assets/title.gif" alt="title" width=100% height="500">
 </div>
 
-<script>
-    var audio = new Audio('https://github.com/user/project/blob/main/audio/sound.mp3?raw=true');
-    audio.play();
-</script>
+<video controls="" autoplay="" name="media">
+    <source src="https://user.github.io/project/audio/sound.mp3" type="audio/mp3">
+</video>
 
 ## Hi there 👋
 
