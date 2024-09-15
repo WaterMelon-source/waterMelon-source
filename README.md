@@ -10,7 +10,7 @@
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="50" /></a>  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="50" /></a>  
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg" alt="JavaScript" height="50" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" height="50" /></a>
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%23.svg" alt="C#" height="50" /></a>
   <a href="https://www.lua.org/"target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="C#" height="50" /></a>
