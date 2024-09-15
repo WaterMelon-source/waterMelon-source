@@ -1,14 +1,11 @@
 <div align="center">
   <img src="assets/title.gif" alt="title" width=100% height="500">
 </div>
-<audio autoplay>
-  <source src="[assets/audio.mp3](https://soundcloud.com/dntg/relaxing-starbucks-inspired-coffee-music-coffee-shop-music-cafe-jazz-music-starbucks-music-2021)" type="audio/mpeg">
-</audio>
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" 
-    allow="autoplay" 
-    src="https://soundcloud.com/dntg/relaxing-starbucks-inspired-coffee-music-coffee-shop-music-cafe-jazz-music-starbucks-music-2021">
-</iframe>
+<script>
+    var audio = new Audio('https://github.com/user/project/blob/main/audio/sound.mp3?raw=true');
+    audio.play();
+</script>
 
 ## Hi there 👋
 
