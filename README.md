@@ -12,7 +12,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" height="50" /></a>  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" height="50" /></a>
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" /></a>  
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%23.svg" alt="C#" height="50" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="50" /></a>
   <a href="https://www.lua.org/"target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="C#" height="50" /></a>
 </div>
 
