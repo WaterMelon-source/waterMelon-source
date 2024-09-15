@@ -13,7 +13,7 @@
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" height="50" /></a>
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" /></a>  
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="50" /></a>
-  <a href="https://www.lua.org/"target="_blank"><img style="margin: 10px" src="https://commons.wikimedia.org/wiki/Category:Lua_(programming_language)#/media/File:Lua-Logo.svg" alt="C#" height="50" /></a>
+  <a href="https://www.lua.org/"target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="C#" height="50" /></a>
 </div>
 
 <br/>  
