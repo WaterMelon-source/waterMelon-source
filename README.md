@@ -1,5 +1,5 @@
 <!--![profile preview](assets/title.mp4)-->
-[![Video Thumbnail](assets/thumbnail.jpg)](https://www.youtube.com/watch?v=nqye02H_H6I "Click to watch")
+[![Video Thumbnail](assets/title.gif)](https://www.youtube.com/watch?v=nqye02H_H6I "Click to watch")
 ## Hi there 👋
 
 <!--
