@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/title.gif" alt="My Profile Loop" width="2000" height="2000">
+  <img src="assets/title.gif" alt="My Profile Loop" width=100% height="1000">
 </div>
 
 ## Hi there 👋
