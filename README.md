@@ -1,4 +1,4 @@
-![profile preview](assets/title.gif)
+![profile preview](assets/title.mp4)
 ## Hi there 👋
 
 <!--
