@@ -1,10 +1,13 @@
 <div align="center">
   <img src="assets/title.gif" alt="title" width=100% height="500">
 </div>
+<audio autoplay>
+  <source src="[assets/audio.mp3](https://soundcloud.com/dntg/relaxing-starbucks-inspired-coffee-music-coffee-shop-music-cafe-jazz-music-starbucks-music-2021)" type="audio/mpeg">
+</audio>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" 
     allow="autoplay" 
-    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/dntg/relaxing-starbucks-inspired-coffee-music-coffee-shop-music-cafe-jazz-music-starbucks-music-2021&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
+    src="https://soundcloud.com/dntg/relaxing-starbucks-inspired-coffee-music-coffee-shop-music-cafe-jazz-music-starbucks-music-2021">
 </iframe>
 
 ## Hi there 👋
