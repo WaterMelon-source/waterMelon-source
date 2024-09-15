@@ -2,10 +2,6 @@
   <img src="assets/title.gif" alt="title" width=100% height="500">
 </div>
 
-<video controls="" autoplay="" name="media">
-    <source src="https://github.com/WaterMelon-source/waterMelon-source/blob/main/assets/mouse-click-153941.mp3" type="audio/mp3">
-</video>
-
 ## Hi there 👋
 
 
